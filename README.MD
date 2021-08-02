@@ -1,0 +1,22 @@
+JOLLIE MY PET
+This application is about my pet called jollie{01/08/2021}
+By {Danson muthee}
+Description
+This about my dog pet called jollie,who  is a wonderful and cheerful dog. I've also talked about her toys and what she loves. At the end i have urged people to get their own pets because pets are good friends.
+
+Setup/Installation Requirements
+Have Visual Studio installed. for easier coding because it has all the extensions needed.
+Have a Live Server extension installed to run the code.
+Have a Prettier Code Formatter extension installed to make your codes more appealing.
+Technologies Used
+HTML CSS
+
+Support and contact details
+Incase of anything or ideas feel free to contact me at dmuthee15@gmail.com
+
+License
+[MIT] (https://choosealicense.com/licenses/mit/)
+
+Copyright (c) [2021] [Danson]
+
+
